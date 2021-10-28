@@ -4,9 +4,9 @@
 ## Your Info:
 1. Matric Number & Name & Photo & Phone Number
 
-|             Name             | Matric No |  Phone Number   |  Role  |                   Image                   |
-| :--------------------------: | :-------: | :-------------: | :----: | :---------------------------------------: |
-|         Tan Yi Qing          |  270607   |  +60103373137   | Leader |   ![tan's photo](./images/tanyiqing.png)   |
+|             Name             | Matric No |  Phone Number   |                    Image                   |
+| :--------------------------: | :-------: | :-------------: |  :---------------------------------------: |
+|         Tan Yi Qing          |  270607   |  +60103373137   |   ![tan's photo](./images/tanyiqing.png)   |
 2. Other related info (if any)
 
 ## Introduction
