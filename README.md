@@ -3,7 +3,11 @@
 
 ## Your Info:
 1. Matric Number & Name & Photo & Phone Number
-1. Other related info (if any)
+
+|             Name             | Matric No |  Phone Number   |  Role  |                   Image                   |
+| :--------------------------: | :-------: | :-------------: | :----: | :---------------------------------------: |
+|         Tan Yi Qing          |  270607   |  +60103373137   | Leader |   ![tan's photo](./images/tanyiqing.png)   |
+2. Other related info (if any)
 
 ## Introduction
 ## Result/Output (Screenshot of the output)
