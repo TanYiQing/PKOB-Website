@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reporting</title>
+</head>
+<body>
+<h1>This is a Victims Report Page</h1>
+<ol>
+    {% for victim in victim_list %}
+        <li>{{ victim }}</li>
+    {% endfor %}
+
+</ol>
+</body>
+</html>
