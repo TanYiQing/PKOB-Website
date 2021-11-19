@@ -5,12 +5,20 @@
     <title>Reporting</title>
 </head>
 <body>
-<h1>This is a Victims Report Page</h1>
-<ol>
-    {% for victim in victim_list %}
-        <li>{{ victim }}</li>
-    {% endfor %}
 
-</ol>
+<h1>List of Student</h1>
+<table>
+    <tr>
+        <th>Matric No</th>
+        <th>Name</th>
+    </tr>
+    {% for student in student_list %}
+        <tr>
+            <td>{{ student.matric_no }}</td>
+            <td>{{ student.name }}</td>
+        </tr>
+    {% endfor %}
+</table>
+
 </body>
 </html>

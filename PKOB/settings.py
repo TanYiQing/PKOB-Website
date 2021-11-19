@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ehne66naxmbu)axdoas6p6uivyf=6yi%tt484-lf5rj7090iqf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','pkob-assignmen1.herokuapp.com']
 
 
 # Application definition
@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'App_UserInfo',
+    'App_Customer',
+    'App_Victim',
 ]
 
 MIDDLEWARE = [
@@ -108,6 +110,8 @@ AUTH_PASSWORD_VALIDATORS = [
 LANGUAGE_CODE = 'en-us'
 
 TIME_ZONE = 'UTC'
+
+DATETIME_FORMAT = '%d-%m-%Y %H:%M:%S'
 
 USE_I18N = True
 
