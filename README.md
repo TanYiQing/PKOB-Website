@@ -4,14 +4,15 @@
 ## Your Info:
 1. Matric Number & Name & Photo & Phone Number
 
-|             Name             | Matric No |  Phone Number   |  Role  |                   Image                   |
-| :--------------------------: | :-------: | :-------------: | :----: | :---------------------------------------: |
-|         Tan Yi Qing          |  270607   |  +60103373137   | Leader |   ![tan's photo](./images/tanyiqing.png)   |
+|             Name             | Matric No |  Phone Number    |                   Image                   |
+| :--------------------------: | :-------: | :-------------:  | :---------------------------------------: |
+|         Tan Yi Qing          |  270607   |  +60103373137    |   ![tan's photo](./images/tanyiqing.png)  |
 2. Other related info (if any)
 
 ## Introduction
-
+In this assignment 1, PKOB system initial prototype will be developed. This initial prototype contains add, edit, and view details function. With this PKOB system initial prototype, victims can register their identity on this system.
 ## Result/Output (Screenshot of the output)
+
 ## Youtube Presentation
 ## List of Python packages (including the version) used for this system
 |Package   | Version|
