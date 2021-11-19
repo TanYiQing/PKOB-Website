@@ -11,8 +11,10 @@
 2. Other related info (if any)
 
 ## Introduction
+<p align="justify">Pusat Kawalan Operasi Bencana (PKOB) is a centralized system that can help the penghulu of a district quickly engage in post-disaster relief operations. </p>
 <p align="justify">In this assignment 1, PKOB system initial prototype will be developed. This initial prototype contains add, edit, and view details function. With this PKOB system initial prototype, victims can register their identity on this system.</p>
-<p align="justify">Besides that, with this PKOB system, victim </p>
+<p align="justify">With this PKOB system, victim can easily request for assistance. There will also a victim list for the admin to easily manage the victims data. </p>
+
 ## Result/Output (Screenshot of the output)
 
 ## Youtube Presentation
@@ -21,6 +23,7 @@
 |----------| -------|
 |asgiref   | 3.4.1  |
 |Django    | 3.2.8  |
+|gunicorn  | 20.1.0 |
 |pip       | 21.1.2 |
 |pytz      | 2021.3 |
 |setuptools| 57.0.0 |
@@ -29,12 +32,11 @@
 
 
 ## References (Not less than 10)
-https://stackoverflow.com/questions/8016412/in-django-do-models-have-a-default-timestamp-field
+Date And Time Functions. (n.d.). SQLite. https://www.sqlite.org/lang_datefunc.html
 
-https://bitbucket.org/sts_amandeepkaur/secondproject/src/master/
+Datetime current year and month in Python. (2015, January 28). Stack Overflow. https://stackoverflow.com/questions/28189442/datetime-current-year-and-month-in-python
 
-https://www.sqlite.org/lang_datefunc.html
-
+How do I get the current date and current time only respectively in Django? (2012, August 19). Stack Overflow. https://stackoverflow.com/questions/12030187/how-do-i-get-the-current-date-and-current-time-only-respectively-in-django
 http://www.learningaboutelectronics.com/Articles/How-to-display-only-the-date-from-a-DateTimeField-object-in-Django.php
 
 https://stackoverflow.com/questions/12030187/how-do-i-get-the-current-date-and-current-time-only-respectively-in-django
