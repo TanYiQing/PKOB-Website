@@ -21,8 +21,6 @@ from PKOB import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index, name='homepage'),
-    path('pkob/', include('App_UserInfo.urls')),
-    path('pkob/', include('App_Customer.urls')),
     path('pkob/', include('App_Victim.urls')),
 ]
 
