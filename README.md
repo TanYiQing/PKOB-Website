@@ -10,7 +10,8 @@
 2. Other related info (if any)
 
 ## Introduction
-In this assignment 1, PKOB system initial prototype will be developed. This initial prototype contains add, edit, and view details function. With this PKOB system initial prototype, victims can register their identity on this system.
+<p align="justify">In this assignment 1, PKOB system initial prototype will be developed. This initial prototype contains add, edit, and view details function. With this PKOB system initial prototype, victims can register their identity on this system.</p>
+<p align="justify">Besides that, with this PKOB system, victim </p>
 ## Result/Output (Screenshot of the output)
 
 ## Youtube Presentation
