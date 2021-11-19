@@ -1,0 +1,21 @@
+{% extends "App_Customer/base.html" %}
+
+{% block title %}
+    All Customer
+{% endblock %}
+
+{% block content %}
+    <h1>List of Customer</h1>
+    <table>
+        <tr>
+            <th>IC No</th>
+            <th>Name</th>
+        </tr>
+        {% for customer in customers %}
+            <tr>
+                <td><a href="{% url "customer-detail" customer.ic_no %}">{{ customer.ic_no }}</a></td>
+                <td>{{ customer.name }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}
