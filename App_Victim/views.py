@@ -1,6 +1,5 @@
 import datetime
 
-from django.http import HttpResponseRedirect
 
 import App_Victim.models
 from django.shortcuts import render
