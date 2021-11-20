@@ -16,8 +16,14 @@
 <p align="justify">Furthermore, there will also a victim list for the admin to easily manage the victims data. The victim list will contain details such as IC Number, Name, Phone Number, and Age. Age is the filed that will calculated automatically by the algorithm, based on the IC Number.</p>
 
 ## Result/Output (Screenshot of the output)
+![output1 photo](./images/output1.png)
+![output2 photo](./images/output2.png)
+![output3 photo](./images/output3.png)
+![output4 photo](./images/output4.png)
 
 ## Youtube Presentation
+https://youtu.be/RbnnXKbQ8rk
+
 ## List of Python packages (including the version) used for this system
 |Package   | Version|
 |----------| -------|
